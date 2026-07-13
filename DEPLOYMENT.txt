@@ -1,0 +1,6 @@
+Viral Trips Travel Hub — Production Build
+
+Upload every file and folder in this directory to the public root of your hosting provider.
+For Netlify, drag this entire folder into Netlify Drop.
+For cPanel, upload the contents to public_html.
+The _redirects file is included for Netlify SPA fallback.
